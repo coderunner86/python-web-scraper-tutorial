@@ -1,10 +1,10 @@
-#Web Scraping with BeautifulSoup (bs4) in Python
+# Web Scraping with BeautifulSoup (bs4) in Python
 This repository contains a Python script for web scraping using the BeautifulSoup library. The script is designed to extract job information from a website and filter out specific job titles, such as those related to Python development.
 
-##Prerequisites
+## Prerequisites
 Before running the script, make sure you have Python installed on your machine.
 
-##Usage
+## Usage
 Clone the repository to your local machine:
 
 `git clone https://github.com/coderunner86/python-web-scraper-tutorial.git`
@@ -18,11 +18,11 @@ Navigate to the project directory:
 `python -m venv venv`
 
 # Activate the virtual environment
-# On Windows:
+## On Windows:
 
 `venv\Scripts\activate`
 
-# On macOS/Linux:
+## On macOS/Linux:
 
 `source venv/bin/activate`
 
@@ -30,7 +30,7 @@ Navigate to the project directory:
 
 `pip install -r requirements.txt`
 
-Run the Python script:
+# Run the Python script:
 
 `python main.py`
 

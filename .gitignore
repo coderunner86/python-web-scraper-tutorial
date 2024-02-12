@@ -33,3 +33,4 @@ config.ini
 # Environment variables file
 .env
 
+# Other files
