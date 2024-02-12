@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Editor
+.vscode/
+
+# Dependencies
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Scraped data and logs
+/data/
+/logs/
+
+# Configuration files
+config.ini
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyz
+
+# Environment variables file
+.env
+
